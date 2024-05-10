@@ -32,4 +32,4 @@ Future Plans:
 I am actively working to expand the bot’s capabilities, including the development of a web interface and the addition of support for other blockchains like BASE, DEGEN, and TON. Currently, this bot is optimized for the Solana blockchain.
 
 Contact:
-If you're interested in leveraging this sniper bot for your trading needs, or if you have any inquiries, please reach out via Telegram: @primeoss or email at: prime@oss.one. Your support will enable further improvements and the expansion of its functionalities.
+If you're interested in leveraging this sniper bot for your trading needs, or if you have any inquiries, please reach out via Telegram: @primeoss or email at: prime@oss.one Your support will enable further improvements and the expansion of its functionalities.
