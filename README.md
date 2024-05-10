@@ -4,6 +4,8 @@ This sniper bot is designed for trading Solana meme coins using Jito. It automat
 ### Why Choose This Bot?
 I've spent months developing and refining this bot, employing various strategies to ensure its profitability. Through rigorous testing, my investments grew from 5 SOL to 17 SOL in just three weeks. Initial trials led to a loss of 10 SOL, but these were instrumental in perfecting the bot's functionality and speed. Customize your strategies easily by editing the .env file. This bot offers faster transactions with Jito, outperforming other bots on the market. It's affordably priced for newcomers, with a minimal transaction fee of 0.1% on buys/sells plus a licensing fee to fund further development.
 
+![Sniper Bot Interface](https://github.com/sainhurera/jito-sniper-bot/blob/main/JitoSniperBot.png)
+
 ### Features
 **Buying Options:**
 - **Quote Currency:** Support for SOL/WSOL/USDC.
