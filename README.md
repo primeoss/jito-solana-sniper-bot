@@ -40,3 +40,5 @@ Interested in this sniper bot or have questions? Reach out via:
 - **Email:** prime@oss.one
 
 Your support enables continuous improvements and the expansion of functionalities.
+
+Updated 01/06/2024
