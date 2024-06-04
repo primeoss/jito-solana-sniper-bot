@@ -2,7 +2,7 @@
 This sniper bot is designed for trading Solana meme coins using Jito. It automates the buying and selling of new tokens at set profit margins, simplifying the trading process by handling tasks usually done manually.
 
 ### Why Choose This Bot?
-I've spent months developing and refining this bot, employing various strategies to ensure its profitability. Through rigorous testing, my investments grew from 5 SOL to 17 SOL in just three weeks. Initial trials led to a loss of 10 SOL, but these were instrumental in perfecting the bot's functionality and speed. Customize your strategies easily by editing the .env file. This bot offers faster transactions with Jito, outperforming other bots on the market. It's affordably priced for newcomers, with a minimal transaction fee of 0.1% on buys/sells plus a licensing fee to fund further development.
+One of the best sniper bot to snipe tokens from a list or snipe any token launching on raydium with guaranteed TOP 5/10 normal positions and TOP 1/2% with high jito fee and TOP 1% with private node.
 
 ![Sniper Bot Interface](https://github.com/sainhurera/jito-sniper-bot/blob/main/JitoSniperBot.png)
 
