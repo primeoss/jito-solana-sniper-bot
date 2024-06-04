@@ -4,7 +4,7 @@ This sniper bot is designed for trading Solana meme coins using Jito. It automat
 ### Why Choose This Bot?
 One of the best sniper bot to snipe tokens from a list or snipe any token launching on raydium with guaranteed TOP 5/10 normal positions and TOP 1/2% with high jito fee and TOP 1% with private node.
 
-![Solana Sniper Bot](https://github.com/primeoss/jito-solana-sniper-bot/blob/main/Bestsolanabot.png)
+![Solana Sniper Bot](https://github.com/primeoss/jito-solana-sniper-bot/blob/main/solana-sniper-bot.png)
 
 ### Features
 **Buying Options:**
