@@ -37,6 +37,7 @@ Active development is underway to enhance the bot's capabilities, including a we
 ### Contact
 Interested in this sniper bot or have questions? Reach out via:
 - **Telegram:** @primeoss
+- **Discord:** primeoss
 - **Email:** prime@oss.one
 
 Your support enables continuous improvements and the expansion of functionalities.
