@@ -36,7 +36,7 @@ Active development is underway to enhance the bot's capabilities, including a we
 
 ### Contact
 Interested in this sniper bot or have questions? Reach out via:
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 Your support enables continuous improvements and the expansion of functionalities.
